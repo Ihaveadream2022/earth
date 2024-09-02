@@ -1,0 +1,20 @@
+td.ant-table-cell,
+th.ant-table-cell {
+    padding: 10px !important;
+    font-size: 12px;
+}
+.ant-modal-title {
+    text-align: center;
+}
+
+.title {
+    border-bottom: 1px solid #dcdfe6;
+    margin-bottom: 15px;
+    h4 {
+        margin: 0;
+        font-size: 14px;
+        color: #333;
+        padding-bottom: 15px;
+        border-bottom: 2px solid #1677ff;
+    }
+}
